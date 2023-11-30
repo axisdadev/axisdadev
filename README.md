@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axisdadev&label=Profile%20views&color=0e75b6&style=flat" alt="axisdadev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axisdadev" alt="axisdadev" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/axisdadev" target="blank"><img src="https://img.shields.io/twitter/follow/axisdadev?logo=twitter&style=for-the-badge" alt="axisdadev" /></a> </p>
 
 - 🔭 I’m currently working on **Creative Utilites, a custom discord bot for the Creative Program discord guild.**
@@ -17,7 +15,7 @@
 
 - 📫 How to reach me **@axisdadev, discordapp.com**
 
-- ⚡ Fun fact **My favorite plane is the 737 MAX-8, im also a localhoster 🤔**
+- ⚡ Fun fact **My favorite plane is the 737 MAX-8, im also a localhoster 😐**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
