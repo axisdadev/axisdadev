@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/axisdadev](https://github.com/axisdadev)
 
-- 💬 Ask me about **luaU/lua & python🐍**
+- 💬 Ask me about **Luau/Lua & Python🐍**
 
 - 📫 How to reach me **@axisdadev, discordapp.com**
 
