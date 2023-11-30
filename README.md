@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Creative Utilites, a custom discord bot for the Creative Program discord guild.**
 
-- 🌱 I’m currently learning **about linux, raspberry-pi, arduino and physical computing with C++ and python !**
+- 🌱 I’m currently learning **about linux, raspberry-pi, arduino and physical computing with C++ and Python !**
 
 - 👨‍💻 All of my projects are available at [https://github.com/axisdadev](https://github.com/axisdadev)
 
