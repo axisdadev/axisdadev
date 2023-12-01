@@ -17,10 +17,6 @@
 
 - ⚡ Fun fact **My favorite plane is the 737 MAX-8, im also a localhoster 😐**
 
-- 🎵 Coding playlist
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6vqRHrM4hbMlatVkhYIDlk?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/axisdadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="axisdadev" height="30" width="40" /></a>
