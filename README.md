@@ -1,18 +1,15 @@
 heyo my name is axis ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ============================================================================================================================
 
-full stack python & roblox dev.
+Full stack Python & Roblox developer
 -------------------------------
 
-13, a mainly self taught programmer, working with python and other languages to make full stack applications. And bots and automated features for chat platforms & social media platforms!
-
-* 🌍  I'm based in Nevada.
-* 🚀  I'm currently working on [discord bots & other stuff...](http://discord.com)
-* 🧠  I'm learning Arduino + Physical computing with C++ and other languages!
-* 🤝  I'm open to collaborating on Basically whatever!
-* ⚡  I love aviation! My favorite planes are the VisionJet & 737-MAX 8!
+14, self-taught programmer, from Las Vegas. Enjoys aviation, iced coffee, and owns a small business.
 
 ### Skills
+
+<p align="center">
+<a href="discord.com" target="_blank"><img src="https://media.tenor.com/tNUmI0dD6VEAAAAj/despair.gif" width="200" height=200"
 
 
 <p align="left">
