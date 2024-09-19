@@ -1,14 +1,8 @@
-heyo my name is axis ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+heyo my name is axis ![](https://media.tenor.com/tNUmI0dD6VEAAAAj/despair.gif)
 ============================================================================================================================
 
-Full stack Python & Roblox developer
--------------------------------
-
 14, self-taught programmer, from Las Vegas. Enjoys aviation, iced coffee, and owns a small business.
-
-<p align="center">
-<a href="discord.com" target="_blank"><img src="https://media.tenor.com/tNUmI0dD6VEAAAAj/despair.gif" width="200" height=200"
-
+full stack python and Roblox developer
 
 ### Skills
 <p align="left">
