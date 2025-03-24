@@ -1,8 +1,11 @@
 heyo my name is axis ![](https://media.tenor.com/tNUmI0dD6VEAAAAj/despair.gif)
 ============================================================================================================================
 
-14, self-taught programmer, from Las Vegas. Enjoys aviation, iced coffee, and owns a small business.
-full stack python and Roblox developer
+14, self-taught programmer, from Las Vegas. I enjoy aviation and iced coffee, the proud owner of a small 3d printing business in the valley
+full stack Python and Roblox developer (somewhat nowadays)
+
+Proud owner of [Southwest Airlines PTFS](https://discord.gg/ZGGu6fTrxE) - [(**gh organization**)](github.com/settings/organizations)
+
 
 ### Skills
 <p align="left">
