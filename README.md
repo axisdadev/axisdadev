@@ -1,7 +1,7 @@
 heyo my name is axis ![](https://media.tenor.com/tNUmI0dD6VEAAAAj/despair.gif)
 ============================================================================================================================
 
-14, self-taught programmer, from Las Vegas. I enjoy aviation and iced coffee, the proud owner of a small 3d printing business in the valley. I only really know Python well, but I don't care to learn JS or Node
+15, self-taught programmer, from Las Vegas. I enjoy aviation and iced coffee, the proud owner of a small 3d printing business in the valley. I only really know Python well, but I don't care to learn JS or Node
 
 unfortunately the owner of [Southwest Airlines PTFS](https://southwestptfs.com/) - [(**gh organization**)](https://github.com/orgs/Southwest-PTFS/repositories)
 
