@@ -1,4 +1,4 @@
-hiii my nam is axi![](https://tenor.com/view/explosion-cat-gif-5858640239144030160)
+hiii my name is axi![](https://tenor.com/view/explosion-cat-gif-5858640239144030160)
 ============================================================================================================================
 
 15, self-taught programmer, from Las Vegas. I enjoy aviation and iced coffee.
