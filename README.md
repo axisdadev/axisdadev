@@ -3,7 +3,7 @@
 hi my name is axi
 ============================================================================================================================
 
-15, self-taught programmer, from Las Vegas, NV
+15, (mainly) self-taught programmer, from Las Vegas, NV.
 
 
 ### Skills
