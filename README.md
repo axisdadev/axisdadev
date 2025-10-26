@@ -1,4 +1,4 @@
-heyo my name is axis ![](https://media.tenor.com/tNUmI0dD6VEAAAAj/despair.gif)
+hiii my nam is axi![](https://tenor.com/view/explosion-cat-gif-5858640239144030160)
 ============================================================================================================================
 
 15, self-taught programmer, from Las Vegas. I enjoy aviation and iced coffee.
