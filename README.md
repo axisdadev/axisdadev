@@ -1,4 +1,4 @@
-hiii my name is axi ![cat kabooomie]()
+hiii my name is axi ![cat kabooomie](https://github.com/axisdadev/axisdadev/blob/main/funnygif.gif)
 ============================================================================================================================
 
 15, self-taught programmer, from Las Vegas, NV
