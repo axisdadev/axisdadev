@@ -1,4 +1,4 @@
-![cat kabooomie](https://github.com/axisdadev/axisdadev/blob/main/funnygif.gif)
+![cat kabooomie](https://github.com/axisdadev/axisdadev/blob/main/explosion-cat_100x96.gif)
  
 hi my name is axi
 ============================================================================================================================
