@@ -1,9 +1,7 @@
-hiii my name is axi![cat kabooomie](https://tenor.com/view/explosion-cat-gif-5858640239144030160)
+hiii my name is axi ![cat kabooomie]()
 ============================================================================================================================
 
-15, self-taught programmer, from Las Vegas. I enjoy aviation and iced coffee.
-
-unfortunately the owner of [Southwest Airlines PTFS](https://southwestptfs.com/) - [(**gh organization**)](https://github.com/orgs/Southwest-PTFS/repositories)
+15, self-taught programmer, from Las Vegas, NV
 
 
 ### Skills
