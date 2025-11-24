@@ -19,10 +19,16 @@ when im not doing any of the above, you can usally find me:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@axisda.dev) 
 
 # socials:
+> disclaimer: all opinions are my own and not controlled by Corporate Intrest™️
+[![tiktok](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/tiktok.svg)](https://www.tiktok.com/@linuxlarper)
+[![spotify](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/spotify.svg)](https://open.spotify.com/user/31g3uafn53k5udwuczudu3gjtnqq?si=7c6d73e029a143d9)
+
+# what im doing rn:
+
 
 
 <details>
-<summary>Stats</summary>
+<summary><h2>github stats</h2></summary>
 
 ![](https://github-readme-stats.vercel.app/api?username=axisdadev&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=axisdadev&theme=gotham&hide_border=false)<br/>
