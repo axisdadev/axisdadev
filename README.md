@@ -24,8 +24,8 @@ when im not doing any of the above, you can usually find me:
 [![tiktok](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/tiktok.svg)](https://www.tiktok.com/@linuxlarper) [![spotify](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/spotify.svg)](https://open.spotify.com/user/31g3uafn53k5udwuczudu3gjtnqq?si=7c6d73e029a143d9)
 
 # what im doing rn:
-
-
+[![spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31g3uafn53k5udwuczudu3gjtnqq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31g3uafn53k5udwuczudu3gjtnqq&redirect=true)
+[![discord](https://lanyard.cnrad.dev/api/998819061817413652)](https://discord.com/users/998819061817413652)
 
 <details>
 <summary><h2>github stats</h2></summary>
