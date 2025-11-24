@@ -10,7 +10,7 @@ hi my name is axi
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/southwest) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@axisda.dev) 
 
 # I have experience with:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,node,linux,cloudflare,docker,fastapi,nextjs,ps,raspberrypi,redhat,sqlite,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,nodejs,linux,cloudflare,docker,fastapi,nextjs,ps,raspberrypi,redhat,sqlite,ts)](https://skillicons.dev)
 
 
 # Stats
