@@ -6,12 +6,19 @@
 
 15, self-taught dev from Las Vegas. build stuff for Roblox, Discord, and social media. aviation nerd working on my private pilot's license. love tinkering with Linux (Fedora KDE), homelabbing on my Raspberry Pi, and self-hosting everything. open-source enthusiast.
 
-# I have experience with:
+when im not doing any of the above, you can usally find me:
+- studying
+- lifting (gym)
+- flightsimming
+
+# i have experience with:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,nodejs,linux,cloudflare,docker,fastapi,nextjs,ps,raspberrypi,redhat,sqlite,ts)](https://skillicons.dev)
 
+# reach me:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/998819061817413652) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@axisda.dev) 
 
-# Social Media:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/southwest) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@axisda.dev) 
+# socials:
 
 
 <details>
