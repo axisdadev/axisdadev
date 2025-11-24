@@ -20,8 +20,10 @@ when im not doing any of the above, you can usally find me:
 
 # socials:
 > disclaimer: all opinions are my own and not controlled by Corporate Intrest™️
-[![tiktok](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/tiktok.svg)](https://www.tiktok.com/@linuxlarper)
-[![spotify](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/spotify.svg)](https://open.spotify.com/user/31g3uafn53k5udwuczudu3gjtnqq?si=7c6d73e029a143d9)
+
+[![tiktok](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/tiktok.svg)](https://www.tiktok.com/@linuxlarper)
+
+[![spotify](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/spotify.svg)](https://open.spotify.com/user/31g3uafn53k5udwuczudu3gjtnqq?si=7c6d73e029a143d9)
 
 # what im doing rn:
 
