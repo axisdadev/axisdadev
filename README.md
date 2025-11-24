@@ -6,12 +6,12 @@
 
 15, self-taught dev from Las Vegas. build stuff for Roblox, Discord, and social media. aviation nerd working on my private pilot's license. love tinkering with Linux (Fedora KDE), homelabbing on my Raspberry Pi, and self-hosting everything. open-source enthusiast.
 
-when im not doing any of the above, you can usally find me:
+when im not doing any of the above, you can usually find me:
 - studying
 - lifting (gym)
 - flightsimming
 
-# i have experience with:
+# I have experience with:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,nodejs,linux,cloudflare,docker,fastapi,nextjs,ps,raspberrypi,redhat,sqlite,ts)](https://skillicons.dev)
 
 # reach me:
@@ -21,8 +21,7 @@ when im not doing any of the above, you can usally find me:
 # socials:
 > disclaimer: all opinions are my own and not controlled by Corporate Intrest™️
 
-[![tiktok](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/tiktok.svg)](https://www.tiktok.com/@linuxlarper)
-[![spotify](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/spotify.svg)](https://open.spotify.com/user/31g3uafn53k5udwuczudu3gjtnqq?si=7c6d73e029a143d9)
+[![tiktok](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/tiktok.svg)](https://www.tiktok.com/@linuxlarper) [![spotify](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/spotify.svg)](https://open.spotify.com/user/31g3uafn53k5udwuczudu3gjtnqq?si=7c6d73e029a143d9)
 
 # what im doing rn:
 
