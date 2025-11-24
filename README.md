@@ -2,7 +2,7 @@
  
 howdy, im axi
 > also: axitheaviator, axisdadev
-============================================================================================================================
+---
 
 15, self-taught dev from Las Vegas. build stuff for Roblox, Discord, and social media. aviation nerd working on my private pilot's license. love tinkering with Linux (Fedora KDE), homelabbing on my Raspberry Pi, and self-hosting everything. open-source enthusiast.
 
